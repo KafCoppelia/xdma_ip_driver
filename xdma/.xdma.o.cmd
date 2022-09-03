@@ -1,0 +1,3 @@
+cmd_/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.o @/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.mod  ; ./tools/objtool/objtool  --hacks=jump_label  --hacks=noinstr  --ibt   --orc  --retpoline  --rethunk  --sls   --static-call  --uaccess  --link  --module  /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.o
+
+/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.o: $(wildcard ./tools/objtool/objtool)
