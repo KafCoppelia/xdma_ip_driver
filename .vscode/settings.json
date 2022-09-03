@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.v": "systemverilog",
+        "libxdma_api.h": "c",
+        "module.h": "c",
+        "xdma_thread.h": "c",
+        "cdev_sgdma.h": "c",
+        "pci_regs.h": "c",
+        "libxdma.h": "c"
+    }
+}
