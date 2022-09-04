@@ -1,1 +1,0 @@
-cmd_/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/Module.symvers := sed 's/ko$$/o/' /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/modules.order | scripts/mod/modpost  -a  -o /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/Module.symvers -e -i Module.symvers  -N -T -

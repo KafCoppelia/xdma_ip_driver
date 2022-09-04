@@ -1,1 +1,0 @@
-cmd_/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/modules.order := {   echo /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.ko; :; } | awk '!x[$$0]++' - > /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/modules.order

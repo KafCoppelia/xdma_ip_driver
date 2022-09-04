@@ -1,1 +1,0 @@
-cmd_/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.mod := printf '%s\n'   libxdma.o xdma_cdev.o cdev_ctrl.o cdev_events.o cdev_sgdma.o cdev_xvc.o cdev_bypass.o xdma_mod.o xdma_thread.o | awk '!x[$$0]++ { print("/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/"$$0) }' > /home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma.mod

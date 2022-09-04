@@ -1,9 +1,0 @@
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/libxdma.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma_cdev.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/cdev_ctrl.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/cdev_events.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/cdev_sgdma.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/cdev_xvc.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/cdev_bypass.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma_mod.o
-/home/kafcoppelia/WORK/BOARDS/Xilinx_XDMA/xdma_ip_driver/xdma/xdma_thread.o
